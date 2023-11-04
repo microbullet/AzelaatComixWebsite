@@ -1,0 +1,13 @@
+@font-face {
+    font-family: edge;
+    src: url(font.ttf);
+}
+
+body {
+    font-family: edge;
+}
+
+div {
+    text-align: center;
+    align-items: center;
+}
